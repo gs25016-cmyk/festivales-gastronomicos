@@ -1,0 +1,19 @@
+FESTIVALES GASTRONÓMICOS DE EL SALVADOR
+
+Archivos:
+- index.html: página principal y tarjetas de los 14 departamentos.
+- css/estilos.css: estilos visuales y diseño adaptable.
+- js/app.js: información de festivales, buscador y fichas de detalle.
+
+Cómo abrir:
+1. Extrae el ZIP en una carpeta.
+2. Abre la carpeta completa en Visual Studio Code.
+3. Puedes hacer doble clic en index.html para abrir la página en el navegador.
+4. También puedes usar Live Server si está funcionando.
+
+Cada tarjeta abre una ficha con descripción, fecha o época, ubicación, platillos, enlace para obtener indicaciones en Google Maps y una fuente para consultar información. Las ubicaciones con sede no confirmada llevan una nota para verificarla.
+
+Importante:
+- Las fechas de próximas ediciones pueden cambiar; confirma la agenda oficial antes de publicar.
+- Las imágenes están guardadas en la carpeta img, así que no requieren conexión a internet. Son ilustraciones generadas de alimentos relacionados con cada festival; no son fotografías oficiales de las celebraciones.
+- Algunos eventos se celebran en años concretos o tienen fechas variables; las fichas indican cuándo verificar la próxima edición.
